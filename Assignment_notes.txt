@@ -1,0 +1,7 @@
+In this Assignment,
+1.Firstly I i have been Analysis data and I found that is imbalanced.
+2.For overcome this problem, take sample of all dataset respect df_2 dataset and then concatenate all dataset give name dataset df.
+3.Take variable x and y from dataset df and then split data train and test samples 
+4.I choose randam Forest model for classify the data because, Random forest algorithm gave more accuracy than other model.
+5.Then fit data in Random forest model
+6.Then check F1_Score of model That is 92%.
